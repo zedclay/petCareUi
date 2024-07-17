@@ -3,6 +3,23 @@
 A new Flutter project.
 
 ## Getting Started
+### Steps
+1. Clone the repository
+   \`\`\`sh
+   git clone https://github.com/your_username/project_name.git
+   \`\`\`
+2. Navigate to the project directory
+   \`\`\`sh
+   cd project_name
+   \`\`\`
+3. Install dependencies
+   \`\`\`sh
+   flutter pub get
+   \`\`\`
+4. Run the app
+   \`\`\`sh
+   flutter run
+   \`\`\`
 
 This project is a starting point for a Flutter application.
 
