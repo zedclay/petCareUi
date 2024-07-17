@@ -7,11 +7,11 @@ A new Flutter project.
 ### Steps
 1. Clone the repository
    ```sh
-   git clone https://github.com/your_username/project_name.git
+   git clone https://github.com/zedclay/petCareUi.git
    ```
 2. Navigate to the project directory
    ```sh
-   cd project_name
+   cd petCareUi
    ```
 3. Install dependencies
    ```sh
